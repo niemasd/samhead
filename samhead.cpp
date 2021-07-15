@@ -1,5 +1,6 @@
 /**
  * Print the first n entries in a given SAM passed via stdin
+ * Version 1.0.0
  */
 
 // include statements

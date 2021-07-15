@@ -1,6 +1,7 @@
 /**
  * Print the first n entries in a given SAM passed via stdin
  * Version 1.0.0
+ * g++ -Wall -pedantic -O3 -std=c++11 -o samhead samhead.cpp
  */
 
 // include statements
